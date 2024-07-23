@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working as a **Research Associate at the Indian Statistical Institute, Kolkata**
+- 🔭 I’m currently working as a **Research Associate at the Indian Statistical Institute, Kolkata.**
 
-- 💬 Ask me about **Machine Learning, Computer Vision, NLP, Python**
+- 💬 Ask me about **Machine Learning, Computer Vision, NLP.**
 
 - 📫 How to reach me **hnushrat@gmail.com**
 
-- 📄 Know about my experiences I have 1 Research Paper accepted at **BMVC 2024**, and 1 published at **IVCNZ, 2023**
+- 📄 Know about my experiences I have 2 Research Papers accepted at **BMVC 2024**, and **IVCNZ, 2023.**
 
 <!---- ⚡ Fun fact **I think I am creative**--->
 
