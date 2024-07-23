@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![MasterHead](http://www.diginextechnologies.com/images/creative_graphic_designing_company_ludhiana_punjab_india.gif)](https://github.com/Atrij-Paul)
 <h1 align="center">Hi 👋, I'm Nushrat Hussain</h1>
 <h3 align="center">A Machine Learning enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYB9pOrmaS8LFS6p0tkTl3YB0WqAl8e-hPb1JTdhaBZw-VMPyvPdKZKa56At9qdG_RZw0&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1191899737/vector/a-freelancer-programmer-coding-a-program-at-home.jpg?s=612x612&w=0&k=20&c=kYq35K0pW0d788ftElIDwQ8dZ7GL-7EXNyGWZlec6fg=">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atrij-paul&show_icons=true&locale=en" alt="atrij-paul" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atrij-paul&" alt="atrij-paul" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hnushrat&" alt="Nushrat Hussain" /></p>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=atrij-paul&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atrij-paul&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
