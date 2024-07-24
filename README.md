@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **hnushrat@gmail.com**
 
-- 📄 Know about my experiences I have 2 Research Papers accepted at **BMVC 2024**, and **IVCNZ, 2023.**
+- 📄 Know about my experiences I have 2 Research Papers accepted at **BMVC, 2024**, and <a href="https://link.springer.com/chapter/10.1007/978-3-031-25825-1_24#citeas" target = "blank">**IVCNZ, 2023.** </a>
 
 <!---- ⚡ Fun fact **I think I am creative**--->
 
