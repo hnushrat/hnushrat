@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **hnushrat@gmail.com**
 
-- 📄 Know about my experiences I have 3 Research Papers accepted at **JCAA(2025)** <a href="https://journal.caa-international.org/articles/10.5334/jcaa.175" target="blank">, **BMVC(2024)**, and <a href="https://link.springer.com/chapter/10.1007/978-3-031-25825-1_24" target = "blank">**IVCNZ(2023).** </a>
+- 📄 Know about my experiences I have 3 Research Papers accepted at <a href="https://journal.caa-international.org/articles/10.5334/jcaa.175" target="blank">**JCAA(2025)** </a>, <a href="https://bmva-archive.org.uk/bmvc/2024/papers/Paper_104/paper.pdf" target="blank">**BMVC(2024)** </a>, and <a href="https://link.springer.com/chapter/10.1007/978-3-031-25825-1_24" target = "blank"> **IVCNZ(2023).** </a>
 
 - Hobbies include: 🎸 Playing guitar 📖 Reading books.
 
